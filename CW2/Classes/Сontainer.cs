@@ -1,4 +1,4 @@
-﻿namespace CW3;
+﻿namespace CW2;
 
 public abstract class Сontainer(int cargoWeight, int height, int containerWeight, int depth, string serialNumber, int maxLoadWeight)
 {

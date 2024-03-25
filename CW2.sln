@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW3", "CW3\CW3.csproj", "{0F6E50FA-1887-46A3-BB70-91E5B8E05646}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW2", "CW2\CW2.csproj", "{0F6E50FA-1887-46A3-BB70-91E5B8E05646}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
