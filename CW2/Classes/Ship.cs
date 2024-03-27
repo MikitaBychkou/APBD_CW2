@@ -12,7 +12,7 @@ public class Ship(double maxTotalWeightOfCargoInContainers, int maxSpeed, int ma
         if (Containers.Count >= MaxContainerCount ||
             GetTotalWeightOfCargoWithContainers() > MaxTotalWeightOfCargoInContainers)
         {
-            throw new OverfillException("Cannot add container. Max total weight exceeded.");
+            throw new OverfillException("Cannot add container");
         }
         Containers.Add(container);
     }
